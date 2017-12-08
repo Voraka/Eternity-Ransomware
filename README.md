@@ -1,7 +1,6 @@
 # Eternity-Ransomware
 
-This Is Not The Original Repository Of eTeRnItY RaNsOmWaRe. This Project Is Copied & Upgraded from https://github.com/Sameera-Madushan-Perera/eTeRnItY-RaNsOmWaRe
-
+This Is Not The Original Repository Of eTeRnItY RaNsOmWaRe. 
 # Disclaimer
 
 eTeRnItY RaNsOmWaRe Is For Educational Purposes Only. Anyone Should Not Try To Infect Any Computer With This Virus Unless With Prior Consent, Legal Authority And For Testing/educational Purposes, And The Demo Video Contains A Video Of Testing This Virus On A Virtual Machine, For Educational Purposes, Which Means No People Or Machines Were Negatively Impacted Or Harmed In The Making Of The Demo Video.
