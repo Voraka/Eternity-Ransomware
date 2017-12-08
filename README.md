@@ -6,10 +6,6 @@ This Is Not The Original Repository Of eTeRnItY RaNsOmWaRe. This Project Is Copi
 
 eTeRnItY RaNsOmWaRe Is For Educational Purposes Only. Anyone Should Not Try To Infect Any Computer With This Virus Unless With Prior Consent, Legal Authority And For Testing/educational Purposes, And The Demo Video Contains A Video Of Testing This Virus On A Virtual Machine, For Educational Purposes, Which Means No People Or Machines Were Negatively Impacted Or Harmed In The Making Of The Demo Video.
 
-# What Is A Ransomware?
-
-Ransomware is a type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files unless a ransom is paid. - Trend Micro USA -
-
 ## Screenshots
 (01) Ransom Note
 
